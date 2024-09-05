@@ -20,3 +20,4 @@ if (pages[path]) {
 } else {
   console.error('No script found for this page');
 }
+
